@@ -1,0 +1,36 @@
+body{text-align: center;
+padding-top: 900px;
+margin: 0;}
+#byjus{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(rgb(9, 194, 240) 0%,rgb(226, 122, 226) 100%);
+    display: table;width: 100% ;height: 100%;
+    
+}
+#PUC{border-radius:50% ;}
+.linha1{width: 40px;height: 7px;background-color: black;margin:8px
+    auto;}
+    h1{font-family: 'Dancing Script', cursive;
+    color:rgb(255, 0, 0)}
+    h3 {font-family: 'Monoton', cursive;}
+    .menu{
+        position: fixed;
+     list-style: none; top: 10px;
+     right: 30px; 
+     text-align: center; 
+     z-index: 10;
+     cursor: pointer;
+
+    }
+    .bravo{
+        float: left;padding: 10px;
+        border-style: solid;
+        border-width: 1px;
+        margin: 4px;
+        
+    }
+    .bravo:hover{
+        background: linear-gradient(rgb(0, 255, 157) 0%,rgb(170, 172, 240) 100%);
+          color: rgb(255, 238, 0);
+        font-size: 30px;}
